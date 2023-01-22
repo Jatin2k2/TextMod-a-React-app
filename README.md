@@ -1,3 +1,7 @@
+# This is A React App
+
+This app performs Different Operations like Capitalizing the text , Removing extra spaces and Reading the Text Aloud on the Text which is entered by the user.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
