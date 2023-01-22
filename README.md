@@ -1,4 +1,4 @@
-# A React App
+# This is A React App
 
 This app performs Different Operations like Capitalizing the text , Removing extra spaces and Reading the Text Aloud on the Text which is entered by the user.
 
